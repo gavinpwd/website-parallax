@@ -13,7 +13,7 @@ This webpage was created using the following:
 **My Design Goals:**
 * Neutral theme yet elegant and warm
 * Create a single webpage with continuous scrolling
-* Show curated images that tell a story about design and user experience
+* Show curated images
 * Use Google fonts to create a logo without actually creating a logo outside VSCode
 * Use of minimal colours and icons but still present an elegant and cohesive layout
 * Consider using floating elements, transparency, opacity, shadows
