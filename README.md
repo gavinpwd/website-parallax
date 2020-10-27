@@ -41,14 +41,22 @@ This webpage was created using the following:
 Top section
 ![Top section](/images/screenshot-web-01.png)
 
+
 Modal page on button click
+
 ![Modal page on button click](/images/screenshot-web-02.png)
 
+
 Mobile view of colour scheme
+
 ![Mobile view of colour scheme](/images/screenshot-mobile-01.png)
 
+
 Contact section with avatar and contact links
+
 ![Contact section with avatar and contact links](/images/screenshot-mobile-02.png)
 
+
 Moodboard
+
 ![Moodboard](/images/moodboard-min-dark.jpg)
