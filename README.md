@@ -3,6 +3,8 @@
 
 ### **TL;DR**  Continuous scrolling single page website with subtle CSS animation.  The webpage uses W3.CSS as an alternative to Bootstrap.  Very little JavaScript codes were used.
 
+**You can view the webpage here: www.gavinpili.com**
+
 This webpage was created using the following:
 
 * HTML5, CSS3, JavaScript
