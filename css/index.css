@@ -1,0 +1,117 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    /* font: 400 15px/1.8 "Lato", sans-serif; */
+    color: rgb(88, 88, 88);
+}
+
+#logo {
+    /* background-color: #111; */
+    color:whitesmoke;
+    padding: 18px;
+    font-size: 150px;
+    letter-spacing: 10px;
+    font-family: 'Capriola', sans-serif;
+    letter-spacing: -23px;
+    /* text-shadow: 1px 1px 2px #000000 */
+}
+
+#greeting {
+    height:400px; 
+    background-color:lightcyan;
+    padding:40px 40px;
+    text-align: justify;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    position: relative;
+    /* opacity: 0.65; */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.bgimg-1 {
+    background-image: url("../images/img_parallax.jpg");
+    min-height: 100%;
+}
+  
+.bgimg-2 {
+    background-image: url("../images/img_parallax2.jpg");
+    min-height: 400px;
+}
+  
+.bgimg-3 {
+    background-image: url("../images/img_parallax3.jpg");
+    min-height: 400px;
+}
+  
+.bgimg-4 {
+    background-image: url("../images/img_parallax4.jpg");
+    min-height: 100%;
+}
+  
+.caption {
+    position: absolute;
+    left: 0;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    /* color: #000; */
+}
+   
+.caption span.border {
+    /* background-color: #111; */
+    color: #CEBC81;
+    padding: 18px;
+    font-family: 'Capriola', sans-serif;
+    font-size: 40px;
+    /* letter-spacing: 50px; */
+    /* background-color:transparent; */
+}
+  
+h3 {
+    letter-spacing: 3px;
+    /* text-transform: uppercase; */
+    font-family: 'Lato', sans-serif;
+    /* color: rgb(54, 54, 54); */
+    color: rgb(88, 88, 88);
+    text-align:center;
+}
+  
+b {
+    vertical-align: middle;
+    font-size: 70px;
+    letter-spacing: -23px;
+}
+  
+p {
+    font: 16px "Lato", sans-serif;
+    font-weight: 100;
+    color:whitesmoke;
+    letter-spacing: 0.25px;
+    
+}
+  
+a {
+    text-decoration: none;
+    color:whitesmoke;
+    font-weight: 100;
+}
+ 
+footer, small{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color:whitesmoke;
+    text-align:center;
+    background-color:rgb(88, 88, 88);
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4  {
+      background-attachment: scroll;
+    }
+}
