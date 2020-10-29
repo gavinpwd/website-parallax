@@ -24,7 +24,8 @@ body, html {
 }
 
 #button-links {
-    padding-bottom:40px;
+    padding-bottom:400px;
+
 }
 
 
@@ -80,9 +81,8 @@ body, html {
 .avatar {
     
     width: 100%;
-    max-width: 100px;
+    max-width: 80px;
     height: auto;
-     
 }
 
 h3 {
