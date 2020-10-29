@@ -23,6 +23,11 @@ body, html {
     text-align: justify;
 }
 
+#button-links {
+    padding-bottom:40px;
+}
+
+
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
     position: relative;
     /* opacity: 0.65; */
