@@ -1,7 +1,7 @@
 # website-parallax
 ### by Gavin Pili
 
-### **TL;DR**  Continuous scrolling single page website with subtle CSS animation.  The webpage uses W3.CSS as an alternative to Bootstrap.  Very little JavaScript codes were used.
+### **TL;DR**  Continuous scrolling, single page website with subtle CSS animation and parallax effect on desktop view.  The webpage uses W3.CSS as an alternative to Bootstrap and JQuery.  Very little JavaScript codes were used.  Parallax effect has been disabled on mobile devices because it does not render properly. CSS codes have been added to reflect this.
 
 **You can view the webpage here: www.gavinpili.com**
 
